@@ -1,1 +1,6 @@
-# grok3_minni_kickass
+streamlit
+requests
+web3
+qrcode
+Pillow # qrcode often needs Pillow for image generation
+cryptography
